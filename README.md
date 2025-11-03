@@ -15,8 +15,8 @@ Bash 4.0+
 Interface de terminal interativa
 
 📦 Dependências Necessárias:
-bash# 
-Ubuntu/Debian
+
+# Ubuntu/Debian
 sudo apt install jq curl vlc
 
 # Fedora
@@ -24,6 +24,7 @@ sudo dnf install jq curl vlc
 
 # Arch Linux
 sudo pacman -S jq curl vlc
+
 🎬 Players Suportados (ordem de preferência):
 
 VLC (recomendado)
@@ -32,7 +33,7 @@ FFplay
 MPlayer
 
 #🚀 Como Usar:
-bash
+
 # 1. Tornar executável
 chmod +x xtream_player.sh
 

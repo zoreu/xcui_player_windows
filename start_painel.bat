@@ -1,0 +1,3 @@
+@echo off
+echo rodando Xtream Codes Player...
+powershell -ExecutionPolicy Bypass -File "%~dp0xcui.ps1"
